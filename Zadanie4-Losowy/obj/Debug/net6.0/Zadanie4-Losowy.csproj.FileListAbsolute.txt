@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\Zadanie4-Losowy.exe
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\Zadanie4-Losowy.deps.json
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\Zadanie4-Losowy.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\Zadanie4-Losowy.dll
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\ref\Zadanie4-Losowy.dll
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\bin\Debug\net6.0\Zadanie4-Losowy.pdb
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.dll
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\ref\Zadanie4-Losowy.dll
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.pdb
+C:\Users\Admin\source\repos\Zadanie4-Losowy\Zadanie4-Losowy\obj\Debug\net6.0\Zadanie4-Losowy.genruntimeconfig.cache
